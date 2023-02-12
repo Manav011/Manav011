@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{Manav011}/count.svg)
 
 <!--
 **Manav011/Manav011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
